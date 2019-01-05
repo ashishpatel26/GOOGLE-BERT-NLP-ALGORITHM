@@ -1,0 +1,2 @@
+# GOOGLE-BERT-NLP-ALGORITHM
+This introduction introduces the following hot BERT , which has achieved results in 11 NLP missions, and the results are truly amazing. But before I introduce the paper, I still want to say that this work is not very reproducible. If you don't have enough resources, don't think about it. I think it's very likely that the future value of the use lies in the direct use of the pre-trained model published by the author
